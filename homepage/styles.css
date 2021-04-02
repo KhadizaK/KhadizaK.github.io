@@ -1,0 +1,24 @@
+body {
+    background-color: lavender;
+    /*color: darkslategray;*/
+    margin: auto;
+    /*Moves the body to the center*/
+
+
+    font-family: Georgia, Times, serif;
+}
+
+container {
+    text-align: center;
+    font-size: large;
+}
+h1 {
+    font-family: Lucida;
+    text-align: center;
+    /*Makes the first header move to the center and changes font*/
+        }
+
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+}
